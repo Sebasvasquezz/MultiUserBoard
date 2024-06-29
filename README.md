@@ -71,7 +71,7 @@ Once you have the cloned project in your repository. Follow the steps below to l
     ```
 
 4. Now open a browser and go to the following [link](http://localhost:3000/) to start drawing:
-![alt text](images/image.png)
+![Execution](images/image.png)
 
 
 ## Proyect Structure
@@ -114,7 +114,7 @@ Once you have the cloned project in your repository. Follow the steps below to l
 
 ## Architectural Design
 
-![Architectural Design](images/image-2.png)
+![Architectural Design](images/image1.png)
 
 ### Data Flow
 
